@@ -1,0 +1,11 @@
+[
+  {
+    "model": "openbook_circles.Circle",
+    "pk": 1,
+    "fields": {
+      "name": "World",
+      "color": "#023ca7",
+      "created" : "2020-08-22 19:00:18.414069"
+    }
+  }
+]
